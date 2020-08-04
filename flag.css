@@ -1,0 +1,34 @@
+body { 
+	background-color:#303030 ;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7Gkg4T6DC-Jp6bSerCHH_hquoDcMGqmJsA&usqp=CAU'); 
+	background-size: cover;
+	}
+#flag { 
+	position:absolute; 
+	top:20%; 
+	left:85% ; 
+	}
+#msg { 
+	text-align: center; 
+	font-size:60px; 
+	text-shadow: 3px 2px white ; 
+	font: Arial; 
+	color: orange ; 
+	position: absolute; 
+	top:2%; 
+	right:30%; 
+	}
+#msg1 { 
+	text-align: center; 
+	font-size:33px; 
+	text-shadow: 3px 2px red ;
+	font:arial;
+	font-family: "Comic Sans MS", "Comic Sans";
+	color: #e8e8e8 ; 
+	position: absolute; 
+	top:45%; 
+	left:60%;
+	}
+     
+
+     url('http://webneel.com/wallpaper/sites/default/files/images/08-2013/18-india-independence-day-wallpaper.preview.jpg')
